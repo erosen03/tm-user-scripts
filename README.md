@@ -1,4 +1,4 @@
-# tm-user-scripts
+# `tm-user-scripts`
 This repo contains user scripts for use with the [Tampermonkey Chrome extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
 ## Video: How to install and use Tampermonkey
